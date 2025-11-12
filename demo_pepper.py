@@ -18,7 +18,7 @@ def setup_seed(seed):
 
 setup_seed(2)
 
-data_all =['data/peppers']
+data_all =['data/peppers']  # sample rate is 0.2,  noise level is 0.4
 c_all = [""]
 
 ################### 
@@ -33,7 +33,7 @@ gamma = 0.0025
 phi = 5*10e-6
 mid_channel = 600
 mu = 1
-# gamma = 0.0001
+
 
 
 
